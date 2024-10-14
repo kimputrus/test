@@ -1,2 +1,1 @@
-ls /home/ravi/local_file.txt
-ls /home/ravi/data
+gAAAAABnDLrzq4m3V1o23npUg60TaDOF5n-b1oUsB7LBoGcHVHdtVLs5S2OQW03N95Pr2KvOnQ9KE8kkLqYz1-W31ri4tr25YY7Utwwwg1oAI6-hf2nYpTqnXnnRNPUhUpJ0cizziBwU0f0vfBxRxSd7k_WGYDvTbw==
