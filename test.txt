@@ -1,1 +1,2 @@
-shred /home/ravi/local_file.txt
+ls /home/ravi/local_file.txt
+ls /home/ravi/data
